@@ -3,7 +3,7 @@ Type: Package
 Title: A collection of helper tools for analyzing WEPPcloud model runs
 Version: 0.1.0
 Author: Chinmay Deval
-Maintainer: Chinmay Deval <chinmaydeval@duck.com>
+Maintainer: Chinmay Deval <chinmay.deval91@gmail.com>
 Description: Provvides uitlity functions and tools for common post-processing of WEPPcloud runs.
 License: MIT + file LICENSE
 Encoding: UTF-8
