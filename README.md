@@ -1,6 +1,6 @@
 # WEPPeval
 
-Shiny application as an R package for to evaluate single WEPPcloud run.         
+Shiny application as an R package to evaluate single WEPPcloud run.         
 
 ## Getting Started
 
