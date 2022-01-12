@@ -8,7 +8,7 @@
 
 
 run_WEPPeval_application <- function() {
-
+options(shiny.maxRequestSize = 200 * 1024 ^ 2)
 ui <-     shiny::navbarPage(
   title = "WEPPeval",
 
